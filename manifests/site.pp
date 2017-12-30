@@ -1,0 +1,3 @@
+node 'puppetmaster' {
+    include puppet
+}
