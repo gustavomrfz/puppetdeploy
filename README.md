@@ -2,9 +2,9 @@
 
 ## For What
 Deploy Puppet manifests for Puppet Master itself from remote.
-This is for conecept.
+This is for concept.
 
-Any operator lauchs a remote script that simulates application of puppet manifests, changes manifests in production, shows diffs at screen and reports them via email.
+Any operator launchs a remote script that simulates application of last commit of puppet manifests at master branch, changes manifests in production, shows diffs at screen and reports them via email.
 
 ## Steps
 
